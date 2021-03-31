@@ -6,6 +6,7 @@ html {
 
 body {
     background: #fff;
+    background-color: purple
     box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
     color: #545454;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -14,6 +15,7 @@ body {
     margin: 0 auto;
     max-width: 800px;
     padding: 2em 2em 4em;
+    
 }
 
 h1, h2, h3, h4, h5, h6 {
